@@ -2,7 +2,7 @@
 
 /**
  * open_file - opens a file
- * @file_name: the file namepath
+ * @file_name: the file name
  * Return: void
  */
 
